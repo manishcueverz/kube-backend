@@ -6,3 +6,4 @@ marshmallow-sqlalchemy
 mysql-connector-python
 mysqlclient
 python-dotenv
+locust
